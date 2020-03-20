@@ -12,7 +12,7 @@ def bfs(graph, root):
                 queue.append(neighbour)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     graph = {0: [1, 2],
              1: [2],
              2: [3],

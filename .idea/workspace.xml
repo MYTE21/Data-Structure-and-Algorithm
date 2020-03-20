@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019f4e0e-ac5a-4b36-a7ae-0591fb1c12a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/remove_duplicates_from_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/spiral_order_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/কোডিং  ইন্টারভিউতে কী হয় ?/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/কোডিং  ইন্টারভিউতে কী হয় ?/division.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Data-Structure-and-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Structure-and-Algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Graph Algorithms/(BFS) Breadth First Search/Basic Codes/BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph Algorithms/(BFS) Breadth First Search/Basic Codes/BFS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,20 +43,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1WsSTkUyEUHrtgDpUstTPbV6e3M" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-        </expanded-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -60,13 +53,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.228-A-Is your horseshoe on the other hoof">
+  <component name="RunManager" selected="Python.spiral_order_matrix">
     <configuration name="228-A-Is your horseshoe on the other hoof" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data-Structure-and-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,6 +127,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure-and-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/কোডিং  ইন্টারভিউতে কী হয় ?" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/কোডিং  ইন্টারভিউতে কী হয় ?/division.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="remove_duplicates_from_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure-and-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/remove_duplicates_from_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spiral_order_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure-and-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/spiral_order_matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="Data-Structure-and-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,6 +210,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spiral_order_matrix" />
+        <item itemvalue="Python.remove_duplicates_from_array" />
+        <item itemvalue="Python.division" />
         <item itemvalue="Python.228-A-Is your horseshoe on the other hoof" />
         <item itemvalue="Python.BFS" />
       </list>
@@ -181,6 +244,13 @@
       <workItem from="1579936821314" duration="997000" />
       <workItem from="1579951528535" duration="1889000" />
       <workItem from="1580927311224" duration="4322000" />
+      <workItem from="1582388231734" duration="1003000" />
+      <workItem from="1582389780439" duration="447000" />
+      <workItem from="1582988949755" duration="269000" />
+      <workItem from="1582989245902" duration="6716000" />
+      <workItem from="1583000489466" duration="1371000" />
+      <workItem from="1583086288144" duration="2777000" />
+      <workItem from="1584639149603" duration="50000" />
     </task>
     <servers />
   </component>
@@ -188,33 +258,61 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="669" y="158" width="642" height="797" key="#228-A-Is_your_horseshoe_on_the_other_hoof" timestamp="1582388299105">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="669" y="158" width="642" height="797" key="#228-A-Is_your_horseshoe_on_the_other_hoof/70.27.1850.1053@70.27.1850.1053" timestamp="1582388299105" />
+    <state x="590" y="214" width="800" height="684" key="#Inspections" timestamp="1583088483735">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="590" y="214" width="800" height="684" key="#Inspections/70.27.1850.1053@70.27.1850.1053" timestamp="1583088483735" />
     <state x="375" y="87" key="#Notifications" timestamp="1579936848722">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="375" y="87" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1579936848722" />
-    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1580930805286">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582989016153">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="678" y="281" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582989016153" />
+    <state x="357" y="346" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583001706635">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="357" y="346" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1583001706635" />
+    <state width="1354" height="241" key="GridCell.Tab.0.bottom" timestamp="1583089794266">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580930805286" />
-    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1580930805286">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1354" height="241" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1583089794266" />
+    <state width="1354" height="241" key="GridCell.Tab.0.center" timestamp="1583089794265">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580930805286" />
-    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1580930805286">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1354" height="241" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1583089794265" />
+    <state width="1354" height="241" key="GridCell.Tab.0.left" timestamp="1583089794264">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580930805286" />
-    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1580930805286">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1354" height="241" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1583089794264" />
+    <state width="1354" height="241" key="GridCell.Tab.0.right" timestamp="1583089794266">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580930805286" />
-    <state x="310" y="56" key="SettingsEditor" timestamp="1580927851497">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1354" height="241" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583089794266" />
+    <state x="381" y="300" width="1022" height="737" key="SettingsEditor" timestamp="1583001745958">
+      <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="310" y="56" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580927851497" />
+    <state x="381" y="300" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1583001745958" />
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582388235036">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="380" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1582388235035" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1580927923145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Algorithms/(BFS) Breadth First Search/Basic Codes" />
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$228_A_Is_your_horseshoe_on_the_other_hoof.coverage" NAME="228-A-Is your horseshoe on the other hoof Coverage Results" MODIFIED="1580930805277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codeforces/A" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$228_A_Is_your_horseshoe_on_the_other_hoof.coverage" NAME="228-A-Is your horseshoe on the other hoof Coverage Results" MODIFIED="1582989325613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codeforces/A" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$division.coverage" NAME="division Coverage Results" MODIFIED="1582991156457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/কোডিং  ইন্টারভিউতে কী হয় ?" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$spiral_order_matrix.coverage" NAME="spiral_order_matrix Coverage Results" MODIFIED="1583089592062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$BFS.coverage" NAME="BFS Coverage Results" MODIFIED="1582388905044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graph Algorithms/(BFS) Breadth First Search/Basic Codes" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$remove_duplicates_from_array.coverage" NAME="remove_duplicates_from_array Coverage Results" MODIFIED="1582995493849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং" />
   </component>
 </project>
