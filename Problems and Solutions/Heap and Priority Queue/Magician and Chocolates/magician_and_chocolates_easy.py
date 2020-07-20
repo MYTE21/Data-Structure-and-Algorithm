@@ -7,6 +7,8 @@ def magician_and_chocolates(boxes, taken_time):
     while taken_time != 0:
         large_box = max_index(boxes)
         chocolates = chocolates + boxes[large_box]
+        if boxes[large_box] == 0:
+            break
         boxes[large_box] = float(boxes[large_box]/2)
         taken_time = taken_time - 1
     return chocolates
