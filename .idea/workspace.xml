@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="019f4e0e-ac5a-4b36-a7ae-0591fb1c12a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Data Structure/Heap and Priority Queue/heap_queue_heapq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Running Median/running_median_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data-Structure-and-Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Structure-and-Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,34 +63,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Class Creation in Object Oriented Python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.running_median_easy">
-    <configuration name="228-A-Is your horseshoe on the other hoof" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structure-and-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeforces/A" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeforces/A/228-A-Is your horseshoe on the other hoof.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.magician_and_chocolates">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,6 +105,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Structure/Heap and Priority Queue/heap_queue_heapq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="magician_and_chocolates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure-and-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates/magician_and_chocolates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="magician_and_chocolates_easy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structure-and-Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates/magician_and_chocolates_easy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,28 +201,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spiral_order_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structure-and-Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/কোডিং  ইন্টারভিউ  - তামিম শাহরিয়ার সুবিন/ বিষয়ভিত্তিক  প্রোগ্রামিং সমস্যা/অ্যারে ও স্ট্রিং/spiral_order_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="Data-Structure-and-Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,10 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.running_median_easy" />
+        <item itemvalue="Python.magician_and_chocolates" />
+        <item itemvalue="Python.magician_and_chocolates_easy" />
         <item itemvalue="Python.running_median" />
+        <item itemvalue="Python.running_median_easy" />
         <item itemvalue="Python.heap_queue_heapq" />
-        <item itemvalue="Python.228-A-Is your horseshoe on the other hoof" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +257,14 @@
       <workItem from="1593282968495" duration="6309000" />
       <workItem from="1593331905142" duration="45000" />
       <workItem from="1593332782671" duration="65000" />
-      <workItem from="1593361414618" duration="2945000" />
+      <workItem from="1593361414618" duration="7605000" />
+      <workItem from="1594564106417" duration="131000" />
+      <workItem from="1594564276400" duration="125000" />
+      <workItem from="1594635490804" duration="13200000" />
+      <workItem from="1594754363859" duration="806000" />
+      <workItem from="1594757401577" duration="23000" />
+      <workItem from="1594796845373" duration="4082000" />
+      <workItem from="1595276118616" duration="8733000" />
     </task>
     <servers />
   </component>
@@ -282,45 +288,63 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="484" y="13" key="#228-A-Is_your_horseshoe_on_the_other_hoof/0.0.1536.834@0.0.1536.834" timestamp="1593279791940" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1593269769511">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="2560" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594564119034">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state x="2560" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594564119034" />
+    <state x="2606" y="217" key="FileChooserDialogImpl" timestamp="1594564399364">
+      <screen x="1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="2606" y="217" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594564399364" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593269769511" />
-    <state width="1493" height="324" key="GridCell.Tab.0.bottom" timestamp="1593363533560">
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom" timestamp="1595329577563">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="324" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593363533560" />
-    <state width="1493" height="324" key="GridCell.Tab.0.center" timestamp="1593363533560">
+    <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595329577563" />
+    <state width="1877" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595279192668" />
+    <state width="1493" height="324" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593415356773" />
+    <state width="1493" height="219" key="GridCell.Tab.0.center" timestamp="1595329577563">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="324" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593363533560" />
-    <state width="1493" height="324" key="GridCell.Tab.0.left" timestamp="1593363533560">
+    <state width="1493" height="219" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595329577563" />
+    <state width="1877" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595279192668" />
+    <state width="1493" height="324" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593415356772" />
+    <state width="1493" height="219" key="GridCell.Tab.0.left" timestamp="1595329577563">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="324" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593363533560" />
-    <state width="1493" height="324" key="GridCell.Tab.0.right" timestamp="1593363533560">
+    <state width="1493" height="219" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595329577563" />
+    <state width="1877" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595279192668" />
+    <state width="1493" height="324" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593415356772" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right" timestamp="1595329577563">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="324" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593363533560" />
-    <state width="1493" height="257" key="GridCell.Tab.1.bottom" timestamp="1593290039627">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1493" height="219" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1595329577563" />
+    <state width="1877" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1595279192668" />
+    <state width="1493" height="324" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593415356772" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1594809095529">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594809095529" />
     <state width="1493" height="257" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593290039627" />
-    <state width="1493" height="257" key="GridCell.Tab.1.center" timestamp="1593290039627">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1594809095529">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594809095529" />
     <state width="1493" height="257" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1593290039627" />
-    <state width="1493" height="257" key="GridCell.Tab.1.left" timestamp="1593290039627">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1594809095529">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594809095529" />
     <state width="1493" height="257" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1593290039627" />
-    <state width="1493" height="257" key="GridCell.Tab.1.right" timestamp="1593290039627">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1594809095529">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594809095529" />
     <state width="1493" height="257" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1593290039627" />
-    <state x="277" y="62" key="SettingsEditor" timestamp="1593282956713">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="2266" y="78" key="SettingsEditor" timestamp="1594756515822">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
+    <state x="2266" y="78" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594756515822" />
     <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1593282956713" />
     <state x="555" y="94" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593362085808">
       <screen x="0" y="0" width="1536" height="834" />
@@ -328,9 +352,11 @@
     <state x="555" y="94" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1593362085808" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$running_median_easy.coverage" NAME="running_median_easy Coverage Results" MODIFIED="1593363530166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Running Median" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$running_median_easy.coverage" NAME="running_median_easy Coverage Results" MODIFIED="1594635588675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Running Median" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$heap_queue_heapq.coverage" NAME="heap_queue_heapq Coverage Results" MODIFIED="1593287448658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data Structure/Heap and Priority Queue" />
     <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$228_A_Is_your_horseshoe_on_the_other_hoof.coverage" NAME="228-A-Is your horseshoe on the other hoof Coverage Results" MODIFIED="1593280136681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codeforces/A" />
-    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$running_median.coverage" NAME="running_median Coverage Results" MODIFIED="1593361958120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Running Median" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$magician_and_chocolates_easy.coverage" NAME="magician_and_chocolates_easy Coverage Results" MODIFIED="1595329416685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$running_median.coverage" NAME="running_median Coverage Results" MODIFIED="1594798800539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Running Median" />
+    <SUITE FILE_PATH="coverage/Data_Structure_and_Algorithm$magician_and_chocolates.coverage" NAME="magician_and_chocolates Coverage Results" MODIFIED="1595329452532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems and Solutions/Heap and Priority Queue/Magician and Chocolates" />
   </component>
 </project>
